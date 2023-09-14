@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/e-commerce/static/css/main.73d2417e.css",
+    "main.js": "/e-commerce/static/js/main.b7540e39.js",
+    "static/media/camera2.jpg": "/e-commerce/static/media/camera2.09b25e8bfb0e1837aafe.jpg",
+    "static/media/bag7.jpg": "/e-commerce/static/media/bag7.4c372fb8dee643dd58f7.jpg",
+    "static/media/earphones8.jpg": "/e-commerce/static/media/earphones8.3f22ee6ba5312fc3c2f6.jpg",
+    "static/media/jacket5.jpg": "/e-commerce/static/media/jacket5.1e423c1bf746bc28b3b3.jpg",
+    "static/media/phone1.jpg": "/e-commerce/static/media/phone1.a53c91ba984d6be902ac.jpg",
+    "static/media/tshirt4.jpg": "/e-commerce/static/media/tshirt4.31b6b35779ae4c3e17d2.jpg",
+    "index.html": "/e-commerce/index.html",
+    "main.73d2417e.css.map": "/e-commerce/static/css/main.73d2417e.css.map",
+    "main.b7540e39.js.map": "/e-commerce/static/js/main.b7540e39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73d2417e.css",
+    "static/js/main.b7540e39.js"
+  ]
+}
